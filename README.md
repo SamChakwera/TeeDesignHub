@@ -1,4 +1,4 @@
-# TeeDesignHub AI-Powered 3D Website Built with React and ThreeJS
+# TeeDesignHub: AI-Powered 3D Website Built with React and ThreeJS
 
 ## Project Overview
 In this project, we build an AI-powered 3D website using React and ThreeJS. The website showcases a product in 3D, giving users an interactive experience with the product. We also infuse the website with artificial intelligence using DALLE AI to generate custom images.
